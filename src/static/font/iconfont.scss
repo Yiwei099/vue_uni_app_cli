@@ -1,0 +1,128 @@
+@font-face {
+  font-family: "erabbit"; /* Project id 4592230 */
+  src: url('iconfont.woff2?t=1718867540065') format('woff2'),
+       url('iconfont.woff?t=1718867540065') format('woff'),
+       url('iconfont.ttf?t=1718867540065') format('truetype'),
+       url('iconfont.svg?t=1718867540065#iconfont') format('svg');
+}
+
+// .iconfont {
+//   font-family: "iconfont" !important;
+//   font-size: 16px;
+//   font-style: normal;
+//   -webkit-font-smoothing: antialiased;
+//   -moz-osx-font-smoothing: grayscale;
+// }
+[class^='icon-'],
+[class*=' icon-'] {
+  font-family: 'erabbit' !important;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.icon-icon_dianpu:before {
+  content: "\e641";
+}
+
+.icon-btn_radio_nor:before {
+  content: "\e630";
+}
+
+.icon-icon_table5:before {
+  content: "\e637";
+}
+
+.icon-pay1:before {
+  content: "\e638";
+}
+
+.icon-pic_null:before {
+  content: "\e639";
+}
+
+.icon-icon_table4:before {
+  content: "\e63a";
+}
+
+.icon-pay3:before {
+  content: "\e63b";
+}
+
+.icon-icon_table6:before {
+  content: "\e63c";
+}
+
+.icon-btn_radio_sel:before {
+  content: "\e63d";
+}
+
+.icon-icon_table3:before {
+  content: "\e63e";
+}
+
+.icon-icon_table2:before {
+  content: "\e63f";
+}
+
+.icon-icon_table1:before {
+  content: "\e640";
+}
+
+.icon-icon_table7:before {
+  content: "\e628";
+}
+
+.icon-pay4:before {
+  content: "\e629";
+}
+
+.icon-pay2:before {
+  content: "\e62a";
+}
+
+.icon-inter:before {
+  content: "\e634";
+}
+
+.icon-btn_xiala:before {
+  content: "\e635";
+}
+
+.icon-icon_up:before {
+  content: "\e636";
+}
+
+.icon-login_icon_hide:before {
+  content: "\e631";
+}
+
+.icon-login_icon_show:before {
+  content: "\e632";
+}
+
+.icon-icon_paixu2:before {
+  content: "\e633";
+}
+
+.icon-icon_tip:before {
+  content: "\e62e";
+}
+
+.icon-icon_moling1:before {
+  content: "\e62c";
+}
+
+.icon-icon_time:before {
+  content: "\e62d";
+}
+
+.icon-icon_aboutus:before {
+  content: "\e62f";
+}
+
+.icon-icon_setup:before {
+  content: "\e62b";
+}
+
